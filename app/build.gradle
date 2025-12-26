@@ -2,7 +2,7 @@ android {
     defaultConfig {
         versionCode 1
 
-        buildConfigField "String", "API_KEY", "\"old-api-key\""
-        buildConfigField "String", "API_URL", "\"https://api.staging.example.com\""
+        buildConfigField "String", "API_KEY", "\"old-api-key""
+        buildConfigField "String", "API_URL", "\"https://api.staging.example.com""
     }
 }
